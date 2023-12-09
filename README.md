@@ -19,9 +19,9 @@
 
 <h3 align="left">Reach me out:</h3>
 <p align="left" style="display: flex;">
-<a href="https://twitter.com/abdulhamid466" target="blank" style="background-color: #303030; display: flex; color: #ffffff; align-items: center; padding: 6px 15px; margin-right: 10px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulhamid466" height="25" width="30" />Twitter</a>
-<a href="https://linkedin.com/in/abdulhamidhasanjohar" target="blank" style="background-color: #303030; display: flex; gap: 5px; color: #ffffff; align-items: center; padding: 6px 15px; margin-right: 10px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulhamidhasanjohar" height="25" width="30" />Linked in</a>
-<a href="https://fb.com/abdulhamid hassan juhar" target="blank" style="background-color: #303030; display: flex; gap: 5px; color: #ffffff; align-items: center; padding: 6px 15px; margin-right: 10px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulhamid hassan juhar" height="30" width="40" />Facebook</a>
+<a href="https://twitter.com/abdulhamid466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulhamid466" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulhamidhasanjohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulhamidhasanjohar" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100093161122102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100093161122102" height="30" width="40" /></a>
 </p>
 <br />
 
