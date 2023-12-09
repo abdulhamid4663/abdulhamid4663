@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdulhamid Hasan Johar</h1>
-<h3 align="center">I am a Junior Frontend Developer with react.js mongodb and node js</h3>
+<h4>Hi 👋, I'm Abdulhamid Hasan Johar a Junior Frontend Developer with react.js mongodb and node js</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
