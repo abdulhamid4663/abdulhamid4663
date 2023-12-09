@@ -1,5 +1,5 @@
 <div>
-    ![Header](./[https://raw.githubusercontent.com/abdulhamid4663/abdulhamid4663/main/banner-image.png])
+    <img src="https://raw.githubusercontent.com/abdulhamid4663/abdulhamid4663/main/banner-image.png" />
 </div>
 <br />
 
